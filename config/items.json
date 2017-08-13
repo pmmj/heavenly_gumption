@@ -1,0 +1,317 @@
+[
+    {
+        "name": "abyssal_blade",
+        "cost": "6400",
+        "type": "upgraded"
+    },
+    {
+        "name": "aether_lens",
+        "cost": "2350",
+        "type": "upgraded"
+    },
+    {
+        "name": "ultimate_scepter",
+        "cost": "4200",
+        "type": "upgraded"
+    },
+    {
+        "name": "arcane_boots",
+        "cost": "1300",
+        "type": "boot"
+    },
+    {
+        "name": "armlet",
+        "cost": "2370",
+        "type": "upgraded"
+    },
+    {
+        "name": "assault",
+        "cost": "5250",
+        "type": "upgraded"
+    },
+    {
+        "name": "bfury",
+        "cost": "4500",
+        "type": "upgraded"
+    },
+    {
+        "name": "black_king_bar",
+        "cost": "3975",
+        "type": "upgraded"
+    },
+    {
+        "name": "blade_mail",
+        "cost": "2200",
+        "type": "upgraded"
+    },
+    {
+        "name": "bloodstone",
+        "cost": "4850",
+        "type": "upgraded"
+    },
+    {
+        "name": "bloodthorn",
+        "cost": "7195",
+        "type": "upgraded"
+    },
+    {
+        "name": "travel_boots_1",
+        "cost": "2400",
+        "type": "boot"
+    },
+    {
+        "name": "butterfly",
+        "cost": "5525",
+        "type": "upgraded"
+    },
+    {
+        "name": "crimson_guard",
+        "cost": "3550",
+        "type": "upgraded"
+    },
+    {
+        "name": "greater_crit",
+        "cost": "5320",
+        "type": "upgraded"
+    },
+    {
+        "name": "dagon_5",
+        "cost": "7720",
+        "type": "upgraded"
+    },
+    {
+        "name": "desolator",
+        "cost": "3500",
+        "type": "upgraded"
+    },
+    {
+        "name": "diffusal_blade_2",
+        "cost": "3850",
+        "type": "upgraded"
+    },
+    {
+        "name": "ancient_janggo",
+        "cost": "1640",
+        "type": "upgraded"
+    },
+    {
+        "name": "echo_sabre",
+        "cost": "2650",
+        "type": "upgraded"
+    },
+    {
+        "name": "ethereal_blade",
+        "cost": "4700",
+        "type": "upgraded"
+    },
+    {
+        "name": "cyclone",
+        "cost": "2750",
+        "type": "upgraded"
+    },
+    {
+        "name": "skadi",
+        "cost": "5775",
+        "type": "upgraded"
+    },
+    {
+        "name": "glimmer_cape",
+        "cost": "1850",
+        "type": "upgraded"
+    },
+    {
+        "name": "guardian_greaves",
+        "cost": "5375",
+        "type": "boot"
+    },
+    {
+        "name": "hand_of_midas",
+        "cost": "2150",
+        "type": "upgraded"
+    },
+    {
+        "name": "heart",
+        "cost": "5200",
+        "type": "upgraded"
+    },
+    {
+        "name": "heavens_halberd",
+        "cost": "3400",
+        "type": "upgraded"
+    },
+    {
+        "name": "helm_of_the_dominator",
+        "cost": "2025",
+        "type": "upgraded"
+    },
+    {
+        "name": "hood_of_defiance",
+        "cost": "1725",
+        "type": "upgraded"
+    },
+    {
+        "name": "hurricane_pike",
+        "cost": "4650",
+        "type": "upgraded"
+    },
+    {
+        "name": "sphere",
+        "cost": "4850",
+        "type": "upgraded"
+    },
+    {
+        "name": "lotus_orb",
+        "cost": "4000",
+        "type": "upgraded"
+    },
+    {
+        "name": "manta",
+        "cost": "5000",
+        "type": "upgraded"
+    },
+    {
+        "name": "mask_of_madness",
+        "cost": "1975",
+        "type": "upgraded"
+    },
+    {
+        "name": "mekansm",
+        "cost": "2375",
+        "type": "upgraded"
+    },
+    {
+        "name": "mjollnir",
+        "cost": "5700",
+        "type": "upgraded"
+    },
+    {
+        "name": "monkey_king_bar",
+        "cost": "5200",
+        "type": "upgraded"
+    },
+    {
+        "name": "moon_shard",
+        "cost": "4000",
+        "type": "upgraded"
+    },
+    {
+        "name": "necronomicon_3",
+        "cost": "5050",
+        "type": "upgraded"
+    },
+    {
+        "name": "octarine_core",
+        "cost": "5900",
+        "type": "upgraded"
+    },
+    {
+        "name": "phase_boots",
+        "cost": "1240",
+        "type": "boot"
+    },
+    {
+        "name": "pipe",
+        "cost": "3200",
+        "type": "upgraded"
+    },
+    {
+        "name": "power_treads",
+        "cost": "1350",
+        "type": "boot"
+    },
+    {
+        "name": "radiance",
+        "cost": "5150",
+        "type": "upgraded"
+    },
+    {
+        "name": "rapier",
+        "cost": "6000",
+        "type": "upgraded"
+    },
+    {
+        "name": "refresher",
+        "cost": "5200",
+        "type": "upgraded"
+    },
+    {
+        "name": "ring_of_aquila",
+        "cost": "985",
+        "type": "upgraded"
+    },
+    {
+        "name": "rod_of_atos",
+        "cost": "3080",
+        "type": "upgraded"
+    },
+    {
+        "name": "sange_and_yasha",
+        "cost": "3900",
+        "type": "upgraded"
+    },
+    {
+        "name": "satanic",
+        "cost": "5700",
+        "type": "upgraded"
+    },
+    {
+        "name": "sheepstick",
+        "cost": "5700",
+        "type": "upgraded"
+    },
+    {
+        "name": "shivas_guard",
+        "cost": "4750",
+        "type": "upgraded"
+    },
+    {
+        "name": "silver_edge",
+        "cost": "5550",
+        "type": "upgraded"
+    },
+    {
+        "name": "solar_crest",
+        "cost": "2625",
+        "type": "upgraded"
+    },
+    {
+        "name": "soul_ring",
+        "cost": "750",
+        "type": "upgraded"
+    },
+    {
+        "name": "tranquil_boots",
+        "cost": "975",
+        "type": "boot"
+    },
+    {
+        "name": "urn_of_shadows",
+        "cost": "875",
+        "type": "upgraded"
+    },
+    {
+        "name": "vanguard",
+        "cost": "2150",
+        "type": "upgraded"
+    },
+    {
+        "name": "veil_of_discord",
+        "cost": "2340",
+        "type": "upgraded"
+    },
+    {
+        "name": "vladmir",
+        "cost": "2275",
+        "type": "upgraded"
+    },
+    {
+        "name": "blink",
+        "cost": "2250",
+        "type": "special"
+    },
+    {
+        "name": "ghost",
+        "cost": "1500",
+        "type": "special"
+    }
+]
