@@ -4,7 +4,7 @@ var async = require('async')
 function composePhoto(arr, callback) {
     var photoNames = arr.map(photoName => {
         var photoPromise = new Promise( (resolve, reject) => {
-            jimp.read("images/items/" + photoName + ".png")
+            jimp.read("images/items/" + photoName + "_lg.png")
                 .then(photo => {
                     resolve(photo);
                 })
@@ -17,12 +17,12 @@ function composePhoto(arr, callback) {
 
     Promise.all(photoNames)
         .then(photos => {
-            buildPhoto = new jimp(88 * (photos.length), 64, 0xFFFFFFFF, function (err, b) {
+            buildPhoto = new jimp(84 * (photos.length), 64, 0x11111111, function (err, b) {
                 ap = photos.map(function(item, index) {
                     return {i: index, photo: item};
                 });
                 async.map(ap, function(p, next) {
-                    b.composite(photos[p.i], 88 * p.i, 0, function(err, image) {
+                    b.composite(photos[p.i], 84 * p.i, 0, function(err, image) {
                         next(null, image);
                     });
                 }, function(err, result) {
