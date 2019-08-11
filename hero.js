@@ -88,6 +88,10 @@ MongoClient.connect(url, function(err, db) {
         "name": "Dark Seer",
 	"attribute": "intelligence"
     },
+	{
+        "name": "Dark Willow",
+	"attribute": "intelligence"
+    },
     {
         "name": "Dazzle",
 	"attribute": "intelligence"
@@ -268,7 +272,11 @@ MongoClient.connect(url, function(err, db) {
 	"attribute": "intelligence"
     },
     {
-	"name": "Phantom Assassin",
+		"name": "Phantom Assassin",
+        "attribute": "agility"
+    },
+	{
+		"name": "Pangolier",
         "attribute": "agility"
     },
     {

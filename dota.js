@@ -118,7 +118,7 @@ MongoClient.connect(url, function(err, db) {
 		"attributeAgi": "agility"
     },
     {
-        "name": "Diffusal Blade 2",
+        "name": "Diffusal Blade",
         "cost": "3850",
         "type": "upgraded",
 		"attributeStr": "strength",
@@ -389,10 +389,12 @@ MongoClient.connect(url, function(err, db) {
 		"attributeAgi": "agility"
     },
     {
-        "name": "Soul Ring",
-        "cost": "750",
+        "name": "Spirit Vessel",
+        "cost": "2975",
         "type": "upgraded",
-		"attributeInt": "intelligence"
+		"attributeStr": "strength",
+		"attributeInt": "intelligence",
+		"attributeAgi": "agility"
     },
     {
         "name": "Tranquil Boots",
@@ -434,6 +436,35 @@ MongoClient.connect(url, function(err, db) {
 		"attributeStr": "strength",
 		"attributeInt": "intelligence",
 		"attributeAgi": "agility"
+    },
+	{
+        "name": "Nullifier",
+        "cost": "4700",
+        "type": "special",
+		"attributeStr": "strength",
+		"attributeInt": "intelligence",
+		"attributeAgi": "agility"
+    },
+	{
+        "name": "Aeon Disk",
+        "cost": "3350",
+        "type": "special",
+		"attributeStr": "strength",
+		"attributeInt": "intelligence",
+		"attributeAgi": "agility"
+    },
+	{
+        "name": "Kaya",
+        "cost": "1950",
+        "type": "special",
+		"attributeInt": "intelligence"
+    },
+	{
+        "name": "Meteor Hammer",
+        "cost": "2625",
+        "type": "special",
+		"attributeStr": "strength",
+		"attributeInt": "intelligence"
     },
     {
         "name": "Ghost Scepter",
