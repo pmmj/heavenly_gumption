@@ -1,0 +1,11 @@
+08/12/2017
+    Hamza Zahid:
+	- all boot types listed as "boot" instead of "upgraded"
+	- blink and ghost scepter types listed as "special" instead of "basic"
+	- the following items are included along with their higher level counter parts
+		- arcane_boots
+		- travel_boots_1
+		- hood_of_defiance
+		- mekansm
+		- vanguard
+		- ghost
